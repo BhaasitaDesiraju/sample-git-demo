@@ -1,2 +1,2 @@
-This is a sample file for git demo 2
-Making changes to demonstrate merge conflicts
+Hello
+This is a sample file for git demo
