@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int orderedLinearSearch(int A[], int n, int data) {
+int linearSearchForSortedElements(int A[], int n, int data) {
 	for (int i  = 0; i < n; i++) {
 		if(A[i] == data)
 			return i;
