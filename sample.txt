@@ -1,3 +1,2 @@
-Hi
 This is a sample file for git demo 2.
 Editing this file to demonstrate merge conflicts.
